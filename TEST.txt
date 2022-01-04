@@ -1,1 +1,1 @@
-Hei! - Tester bash commit
+Hei! - Tester bash commit med proxy
